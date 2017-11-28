@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  HYfarme
+//
+//  Created by bidiao on 15/12/2.
+//  Copyright © 2015年 bidiao. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "UIImage+Extension.h"
+#import "UIBarButtonItem+Extension.h"
+#import "UIImage+Extension.h"
+#import "UIView+Extension.h"
+#import "Constants.h"
+#import "HYShouViewController.h"
+#import "Masonry.h"
+#import "SDImageCache.h"
+#endif 
